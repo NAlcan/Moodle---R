@@ -13,3 +13,8 @@ Dentro del curso y con el "Modo edición" activado:
 3. Descargar datos de tabla como  ".csv" (recomendado)
 
 ![](Figuras/PeekMoodle.gif)
+
+
+4. Presentación en LatinR2020[https://www.youtube.com/watch?v=NuwV6MOvCBY&list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D&index=3]
+
+
