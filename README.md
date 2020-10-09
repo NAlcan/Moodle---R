@@ -1,7 +1,13 @@
 # Moodle-R
 Codigos para Generar reportes de actividad estudiantil con los registros de Moodle + R
 
-Dentro del curso y con el "Modo edición" activado:
+* [Presentación en LatinR2020](https://www.youtube.com/watch?v=NuwV6MOvCBY&list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D&index=3)
+
+* [Acceso al código de los graficos](https://github.com/NAlcan/Moodle---R/blob/main/RegistrosDiariosMoodle.R)
+
+# ¿Cómo descargar los registros en Moodle?
+
+### Dentro del curso y con el "Modo edición" activado:
 
 1. Ir a panel de Administración:
  + Informes
@@ -14,7 +20,5 @@ Dentro del curso y con el "Modo edición" activado:
 
 ![](Figuras/PeekMoodle.gif)
 
-
-4. Presentación en LatinR2020[https://www.youtube.com/watch?v=NuwV6MOvCBY&list=PL9-E3cL2KgKlkjEb7wFN_lAeO72sLFY3D&index=3]
 
 
