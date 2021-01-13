@@ -6,6 +6,8 @@ Codigos para Generar reportes de actividad estudiantil con los registros de Mood
 
 * [Acceso al código de los graficos](https://github.com/NAlcan/Moodle---R/blob/main/RegistrosDiariosMoodle.R)
 
+* [Publicación: El índice de actividad individual de los estudiantes en EVA y sus rendimientos académicos: el caso de Bioestadística Veterinaria](https://ojs.intercambios.cse.udelar.edu.uy/index.php/ic/article/view/259)
+
 # ¿Cómo descargar los registros en Moodle?
 
 ### Dentro del curso y con el "Modo edición" activado:
